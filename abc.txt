@@ -1,0 +1,3 @@
+qwerty
+
+add origin https://github.com/Ning2134/ausz.git
